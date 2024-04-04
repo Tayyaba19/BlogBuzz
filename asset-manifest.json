@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/BlogBuzz/static/css/main.52576cc7.css",
-    "main.js": "/BlogBuzz/static/js/main.8f5f4c8d.js",
+    "main.js": "/BlogBuzz/static/js/main.7cc44cc2.js",
     "static/media/graphic-design-trends.png": "/BlogBuzz/static/media/graphic-design-trends.0b299d6ee3b9dd163c57.png",
     "static/media/1.jpg": "/BlogBuzz/static/media/1.ad2195ffbd36363934e3.jpg",
     "static/media/logo.jpg": "/BlogBuzz/static/media/logo.3c401567a152755525bf.jpg",
     "static/media/author.jpg": "/BlogBuzz/static/media/author.5703edbcf2fa340ce0cf.jpg",
     "index.html": "/BlogBuzz/index.html",
     "main.52576cc7.css.map": "/BlogBuzz/static/css/main.52576cc7.css.map",
-    "main.8f5f4c8d.js.map": "/BlogBuzz/static/js/main.8f5f4c8d.js.map"
+    "main.7cc44cc2.js.map": "/BlogBuzz/static/js/main.7cc44cc2.js.map"
   },
   "entrypoints": [
     "static/css/main.52576cc7.css",
-    "static/js/main.8f5f4c8d.js"
+    "static/js/main.7cc44cc2.js"
   ]
 }
